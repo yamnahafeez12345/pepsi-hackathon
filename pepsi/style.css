@@ -1,0 +1,16 @@
+
+.mr-5{ font-weight: bold;}
+footer { background-color: blue;}
+.text-gray-600{font-weight: bold;}
+/* body  {
+    background-color: blue;
+    background-color: blue;
+} */
+footer{
+    background-color: blue;
+}
+.flex-grow{
+    width: 100%;
+
+}
+body{width: 100%;;}
